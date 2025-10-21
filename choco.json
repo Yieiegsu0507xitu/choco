@@ -1,67 +1,62 @@
 [
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(1).png",
-"name": "Wall 1",
-"collections": "Oneui"
-},
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(2).png",
-"name": "Wall 2",
-"collections": "choco"
-},
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(3).png",
-"name": "Wall 3",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(4).png",
-"name": "Wall 4",
-"collections": "choco"
-}
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(5).png",
-"name": "Wall 5",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(6).png",
-"name": "Wall 6",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(7).png",
-"name": "Wall 7",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(8).png",
-"name": "Wall 8",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(9).png",
-"name": "Wall 9",
-"collections": "choco"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(10).png",
-"name": "Wall 10",
-"collections": "choco"
-}
-
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(1).png",
+        "name": "Wall 1",
+        "collections": "Oneui"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(2).png",
+        "name": "Wall 2",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(3).png",
+        "name": "Wall 3",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(4).png",
+        "name": "Wall 4",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(5).png",
+        "name": "Wall 5",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(6).png",
+        "name": "Wall 6",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(7).png",
+        "name": "Wall 7",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(8).png",
+        "name": "Wall 8",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(9).png",
+        "name": "Wall 9",
+        "collections": "choco"
+    },
+    {
+        "author": "Raj Arya",
+        "url": "https://raw.githubusercontent.com/Yieiegsu0507xitu/choco/refs/heads/main/choco/choco%20(10).png",
+        "name": "Wall 10",
+        "collections": "choco"
+    }
 ]
-
